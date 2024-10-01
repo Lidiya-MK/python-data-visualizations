@@ -1,10 +1,41 @@
-# Data-Visualization-with-Pandas
+# Python Data Visualizations
 
-I recently completed a course by Madecraft and Michael Galarnyk on Python Data Visualization. I wanted to put my skills to the test so I decided to create this project. 
+## Overview
+This project showcases my skills in Python data visualization using Jupyter notebooks. It includes a collection of datasets from different sources, which I processed and visualized using Pandas, Matplotlib, and Seaborn. The project is a practical application of the concepts I learned from a course led by Madecraft and Michael Galarnyk on Python Data Visualization.
 
-From the course I learned how to:
-1. filter and clean large datasets imported from .xlsx and .csv files.
-2. Locate Nan entries to avoid errors during plotting.
-3. Present filtered data in a visually pleasing manner using pandas matplotlib and seaborn. 
-4. MATLAB style and Object style syntax for Matplotlib 
-5. Exporting plotted pandas Dataframes.
+## Key Learnings
+Throughout the project, I applied several essential techniques and practices, including:
+
+- **Filtering & Cleaning Data**: Efficiently handling and processing large datasets imported from `.xlsx` and `.csv` files.
+- **Handling NaN Values**: Identifying and managing missing data (NaN entries) to prevent errors during plotting.
+- **Visual Representation**: Creating clear and aesthetically pleasing data visualizations using Pandas, Matplotlib, and Seaborn.
+- **Matplotlib Styles**: Utilizing both MATLAB-style and Object-oriented syntax in Matplotlib to achieve different styles and control over the plots.
+- **Exporting Data**: Exporting plotted visualizations directly from Jupyter notebooks for further use.
+
+## Tools & Libraries Used
+- **Pandas**: For data manipulation and preprocessing.
+- **Matplotlib**: For basic plotting and advanced visualizations.
+- **Seaborn**: For aesthetically pleasing statistical graphics built on top of Matplotlib.
+- **Jupyter Notebooks**: To organize code, visualizations, and notes in a readable format.
+
+## Features
+- **Data Importation**: Supports importing datasets from various file formats, including `.csv` and `.xlsx`.
+- **Data Cleaning**: Automatic detection and handling of missing values (NaNs) to ensure smooth data visualization.
+- **Simple & Effective Plotting**: Supports basic visualizations using Matplotlib and Seaborn.
+- **Interactive Jupyter Notebooks**: All visualizations and data processing are performed in an interactive, well-documented notebook environment.
+
+## Sample Visualizations
+Here are some of the visualizations included in the project:
+
+- **Heatmaps**: To visualize correlations or data intensity.
+- **Line Charts**: To analyze trends over time.
+- **Histograms**: To display the distribution of data points.
+- **Subplots**: To combine multiple visualizations into a single figure for comparative analysis.
+
+## How to Run
+To explore this project in your own environment:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Lidiya-MK/Data-Visualization-with-Pandas.git
+
