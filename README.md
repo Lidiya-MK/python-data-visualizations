@@ -18,12 +18,6 @@ Throughout the project, I applied several essential techniques and practices, in
 - **Seaborn**: For aesthetically pleasing statistical graphics built on top of Matplotlib.
 - **Jupyter Notebooks**: To organize code, visualizations, and notes in a readable format.
 
-## Features
-- **Data Importation**: Supports importing datasets from various file formats, including `.csv` and `.xlsx`.
-- **Data Cleaning**: Automatic detection and handling of missing values (NaNs) to ensure smooth data visualization.
-- **Simple & Effective Plotting**: Supports basic visualizations using Matplotlib and Seaborn.
-- **Interactive Jupyter Notebooks**: All visualizations and data processing are performed in an interactive, well-documented notebook environment.
-
 ## Sample Visualizations
 Here are some of the visualizations included in the project:
 
