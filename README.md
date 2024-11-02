@@ -27,7 +27,7 @@ Here are some of the visualizations included in the project:
 - **Subplots**: To combine multiple visualizations into a single figure for comparative analysis.
 
 ## How to Run
-To explore this project in your own environment:
+To explore this project in your own environment
 
 1. Clone the repository:
    ```bash
