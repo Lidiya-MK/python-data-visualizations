@@ -7,7 +7,7 @@ This project showcases my skills in Python data visualization using Jupyter note
 Throughout the project, I applied several essential techniques and practices, including:
 
 - **Filtering & Cleaning Data**: Efficiently handling and processing large datasets imported from `.xlsx` and `.csv` files.
-- **Handling NaN Values**: Identifying and managing missing data (NaN entries) to prevent errors during plotting.
+- **Handling NaN Values**: Identifying and managing missing data (NaN entries) to prevent errors during plotting. 
 - **Visual Representation**: Creating clear and aesthetically pleasing data visualizations using Pandas, Matplotlib, and Seaborn.
 - **Matplotlib Styles**: Utilizing both MATLAB-style and Object-oriented syntax in Matplotlib to achieve different styles and control over the plots.
 - **Exporting Data**: Exporting plotted visualizations directly from Jupyter notebooks for further use.
