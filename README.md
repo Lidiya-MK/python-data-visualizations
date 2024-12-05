@@ -25,6 +25,8 @@ Here are some of the visualizations included in the project:
 - **Line Charts**: To analyze trends over time.
 - **Histograms**: To display the distribution of data points.
 - **Subplots**: To combine multiple visualizations into a single figure for comparative analysis.
+  ![image](https://github.com/user-attachments/assets/f9eabd1f-5bb7-4875-97ad-a62da40b1f84)
+
 
 ## How to Run
 To explore this project in your own environment
