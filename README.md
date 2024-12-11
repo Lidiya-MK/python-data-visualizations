@@ -33,5 +33,5 @@ To explore this project in your own environment
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Lidiya-MK/Data-Visualization-with-Pandas.git
+   git clone https://github.com/Lidiya-MK/python-data-visualizations.git
 
